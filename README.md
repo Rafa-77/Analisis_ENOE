@@ -8,11 +8,11 @@ Tratando en primera de seleccionar solo a la poblacion de hombres oaxaqueños.
 
 Esta gráfica refleja la situacion de los trabajadores subordinados y remunerados
 <p align="center">
-    <img src="https://github.com/Rafa-77/Analisis_ENOE/blob/main/Images/Trabajadores1.png" width="550" height="400">
+    <img src="https://github.com/Rafa-77/Analisis_ENOE/blob/main/Images/Trabajadores1.png" width="450" height="400">
 </p>
 
 Esta gráfica refleja la situacion de los trabajadores por cuenta propia.
 
 <p align="center">
-    <img src="https://github.com/Rafa-77/Analisis_ENOE/blob/main/Images/Trabajadores2.png" width="550" height="400">
+    <img src="https://github.com/Rafa-77/Analisis_ENOE/blob/main/Images/Trabajadores2.png" width="500" height="400">
 </p>
